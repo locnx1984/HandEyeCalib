@@ -1,3 +1,5 @@
+Modification from: https://github.com/eayvali/Pose-Estimation-for-Sensor-Calibration
+
 ## POSE ESTIMATION FOR SENSOR CALIBRATION
 
 Many sensor calibration and pose estimation problems in robotics require solving equations of the form AX=XB or AX=YB to obtain the homogeneous transforms X and Y from a set of (A,B) paired measurements.
